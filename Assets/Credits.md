@@ -16,3 +16,8 @@ Creative Commons
 Attribution (3.0)
 
 EXAMPLES END
+
+In Moving Light by 
+Martijn de Boer (NiGiD) 
+(c) copyright 2020 
+Licensed under a Creative Commons Attribution-Noncommercial  (3.0) license. 
