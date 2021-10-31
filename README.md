@@ -8,5 +8,5 @@ Play Test my game [here]()
 
 ## Prototype
 
-Play my Prototype [here]()
+Play my Prototype [here](Prototype/TheMaze-Prototype-WickhamGibbs.html)
 
