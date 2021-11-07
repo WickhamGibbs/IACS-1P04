@@ -7,6 +7,9 @@ Created for Twine Game built in aformentioned course
 Play Test my game [here](Play_Test/The Maze-Playtest.html)
 
 
+After playtesting please fill out [this form](https://forms.office.com/r/TfT9LWManK)
+
+
 ## Prototype
 
 Play my Prototype [here](Prototype/TheMaze-Prototype-WickhamGibbs.html)
