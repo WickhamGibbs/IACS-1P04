@@ -5,7 +5,7 @@ Created for Twine Game built in aformentioned course
 ## Play Test
 
 Play Test my game [here](Play_Test/The Maze-Playtest.html)
-)
+
 
 ## Prototype
 
