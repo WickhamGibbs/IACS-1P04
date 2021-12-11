@@ -11,3 +11,6 @@ Play Test my game [here](Play_Test/playtest)
 
 Play my Prototype [here](Prototype/TheMaze-Prototype-WickhamGibbs.html)
 
+## Play Now!!!
+
+It's finally here the fina lbuild of my game, play it [here](Final_Build/TheMaze-final.html)
