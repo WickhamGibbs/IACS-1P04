@@ -13,4 +13,4 @@ Play my Prototype [here](Prototype/TheMaze-Prototype-WickhamGibbs.html)
 
 ## Play Now!!!
 
-It's finally here the fina lbuild of my game, play it [here](Final_Build/TheMaze-final.html)
+It's finally here the fina build of my game, play it [here](Final_Build/TheMaze-final.html)
